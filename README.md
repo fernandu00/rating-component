@@ -14,7 +14,7 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
 
 ## Design
 
-https://github.com/fernandu00/rating-component/blob/main/design/desktop-preview.jpg
+<img src="https://github.com/fernandu00/rating-component/blob/main/design/desktop-preview.jpg">
 
 ## Overview
 
