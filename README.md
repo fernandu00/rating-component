@@ -12,7 +12,9 @@ This is a solution to the [Interactive rating component challenge on Frontend Me
   - [Author](#author)
 
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
+## Design
+
+(./design/desktop-preview.jpg)
 
 ## Overview
 
